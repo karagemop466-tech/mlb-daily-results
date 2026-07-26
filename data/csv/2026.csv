@@ -1595,3 +1595,6 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-07-25,822869,R,Final,Seattle Mariners,SEA,1,Texas Rangers,TEX,7,TEX,9,5,12,0,0,Nathan Eovaldi,Bryan Woo,,Globe Life Field,34006,157,night,2026-07-25T23:15:00Z
 2026-07-25,823027,R,Final,Cincinnati Reds,CIN,0,St. Louis Cardinals,STL,7,STL,9,3,10,1,0,Andre Pallante,Hunter Greene,,Busch Stadium,33975,139,night,2026-07-25T23:15:00Z
 2026-07-25,823600,R,Final,Los Angeles Dodgers,LAD,4,New York Mets,NYM,3,LAD,9,8,6,0,1,Yoshinobu Yamamoto,Nolan McLean,Brock Stewart,Citi Field,36356,168,night,2026-07-25T23:15:00Z
+2026-07-26,822950,R,Final,Cleveland Guardians,CLE,0,Tampa Bay Rays,TB,1,TB,9,1,6,0,0,Drew Rasmussen,Parker Messick,Bryan Baker,Tropicana Field,20562,118,day,2026-07-26T16:15:00Z
+2026-07-26,823354,R,Final,Chicago Cubs,CHC,7,Pittsburgh Pirates,PIT,8,PIT,9,12,11,0,0,Braxton Ashcraft,Jameson Taillon,Mason Montgomery,PNC Park,32921,146,day,2026-07-26T17:35:00Z
+2026-07-26,824730,R,Final,Toronto Blue Jays,TOR,1,Boston Red Sox,BOS,6,BOS,9,9,10,0,0,Greg Weissert,Kevin Gausman,,Fenway Park,36795,145,day,2026-07-26T17:35:00Z
