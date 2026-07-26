@@ -1,0 +1,164 @@
+{
+  "date": "2026-07-16",
+  "generated_at_utc": "2026-07-26T16:04:24Z",
+  "total_games": 1,
+  "final_games": 1,
+  "total_runs": 5,
+  "games": [
+    {
+      "game_pk": 823440,
+      "date": "2026-07-16",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-16T22:10:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Citizens Bank Park",
+      "attendance": 40109,
+      "duration_minutes": 157,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "94",
+        "wind": "2 mph, Out To CF"
+      },
+      "flags": {},
+      "winner_abbr": "NYM",
+      "teams": {
+        "away": {
+          "id": 121,
+          "name": "New York Mets",
+          "abbr": "NYM",
+          "short": "NY Mets",
+          "club": "Mets",
+          "division": "National League East",
+          "league": "National League",
+          "score": 4,
+          "hits": 7,
+          "errors": 1,
+          "left_on_base": 7,
+          "record": {
+            "wins": 41,
+            "losses": 57,
+            "ties": 0,
+            "pct": ".418"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Christian Scott"
+        },
+        "home": {
+          "id": 143,
+          "name": "Philadelphia Phillies",
+          "abbr": "PHI",
+          "short": "Philadelphia",
+          "club": "Phillies",
+          "division": "National League East",
+          "league": "National League",
+          "score": 1,
+          "hits": 4,
+          "errors": 1,
+          "left_on_base": 4,
+          "record": {
+            "wins": 54,
+            "losses": 44,
+            "ties": 0,
+            "pct": ".551"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Aaron Nola"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 2,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 9,
+          "away": 1,
+          "home": 0
+        }
+      ],
+      "decisions": {
+        "winner": "Christian Scott",
+        "loser": "Aaron Nola",
+        "save": "Devin Williams"
+      },
+      "home_runs": [
+        {
+          "batter": "Francisco Alvarez",
+          "pitcher": "Aaron Nola",
+          "inning": 3,
+          "half": "top",
+          "rbi": 1
+        },
+        {
+          "batter": "Brett Baty",
+          "pitcher": "Aaron Nola",
+          "inning": 7,
+          "half": "top",
+          "rbi": 1
+        },
+        {
+          "batter": "Francisco Alvarez",
+          "pitcher": "Aaron Nola",
+          "inning": 7,
+          "half": "top",
+          "rbi": 1
+        },
+        {
+          "batter": "Trea Turner",
+          "pitcher": "Luke Weaver",
+          "inning": 8,
+          "half": "bottom",
+          "rbi": 1
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/823440"
+    }
+  ],
+  "source": "MLB Stats API (statsapi.mlb.com)"
+}

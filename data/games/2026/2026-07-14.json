@@ -1,0 +1,143 @@
+{
+  "date": "2026-07-14",
+  "generated_at_utc": "2026-07-26T16:04:23Z",
+  "total_games": 1,
+  "final_games": 1,
+  "total_runs": 4,
+  "games": [
+    {
+      "game_pk": 823443,
+      "date": "2026-07-14",
+      "game_type": "A",
+      "game_type_label": "All-Star Game",
+      "series_description": "MLB All-Star Game",
+      "series_status": null,
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-15T00:00:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Citizens Bank Park",
+      "attendance": 43916,
+      "duration_minutes": 165,
+      "weather": {
+        "condition": "Clear",
+        "temp": "88",
+        "wind": "4 mph, Out To CF"
+      },
+      "flags": {},
+      "winner_abbr": "AL",
+      "teams": {
+        "away": {
+          "id": 159,
+          "name": "American League All-Stars",
+          "abbr": "AL",
+          "short": "AL All-Stars",
+          "club": "American",
+          "division": null,
+          "league": "American League",
+          "score": 4,
+          "hits": 7,
+          "errors": 0,
+          "left_on_base": 6,
+          "record": {
+            "wins": 1,
+            "losses": 0,
+            "ties": 0,
+            "pct": "1.000"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Dylan Cease"
+        },
+        "home": {
+          "id": 160,
+          "name": "National League All-Stars",
+          "abbr": "NL",
+          "short": "NL All-Stars",
+          "club": "National",
+          "division": null,
+          "league": "National League",
+          "score": 0,
+          "hits": 3,
+          "errors": 0,
+          "left_on_base": 5,
+          "record": {
+            "wins": 0,
+            "losses": 1,
+            "ties": 0,
+            "pct": ".000"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Cristopher S\u00e1nchez"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 3,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": 0
+        }
+      ],
+      "decisions": {
+        "winner": "Dylan Cease",
+        "loser": "Cristopher S\u00e1nchez",
+        "save": null
+      },
+      "home_runs": [
+        {
+          "batter": "Miguel Vargas",
+          "pitcher": "Justin Wrobleski",
+          "inning": 8,
+          "half": "top",
+          "rbi": 1
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/823443"
+    }
+  ],
+  "source": "MLB Stats API (statsapi.mlb.com)"
+}

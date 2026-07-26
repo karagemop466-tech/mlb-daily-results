@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generated_at_utc": "2026-07-26T15:55:44Z",
+  "generated_at_utc": "2026-07-26T16:04:26Z",
   "total_games": 15,
   "final_games": 0,
   "total_runs": 0,
@@ -196,7 +196,7 @@
       "duration_minutes": null,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "83",
+        "temp": "79",
         "wind": "3 mph, Out To RF"
       },
       "flags": {},
