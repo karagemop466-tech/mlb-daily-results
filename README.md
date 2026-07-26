@@ -3,7 +3,7 @@
 Automatically collects **every MLB game result, every day** — full box score detail — and
 publishes it as a browsable website plus machine-readable JSON/CSV.
 
-**🌐 Live site:** https://USERNAME.github.io/mlb-daily-results/
+**🌐 Live site:** https://karagemop466-tech.github.io/mlb-daily-results/
 
 ---
 
@@ -61,10 +61,10 @@ scripts/
 
 ```bash
 # Latest day, as JSON
-curl https://USERNAME.github.io/mlb-daily-results/api/latest.json
+curl https://karagemop466-tech.github.io/mlb-daily-results/api/latest.json
 
 # Whole season as CSV (pandas, Excel, whatever)
-curl -O https://raw.githubusercontent.com/USERNAME/mlb-daily-results/main/data/csv/2026.csv
+curl -O https://raw.githubusercontent.com/karagemop466-tech/mlb-daily-results/main/data/csv/2026.csv
 ```
 
 ```python
