@@ -1,0 +1,41 @@
+{
+  "generated_at_utc": "2026-07-26 15:55 UTC",
+  "days": [
+    {
+      "date": "2026-07-21",
+      "games": 15,
+      "final": 15,
+      "json": "../data/games/2026/2026-07-21.json"
+    },
+    {
+      "date": "2026-07-22",
+      "games": 17,
+      "final": 17,
+      "json": "../data/games/2026/2026-07-22.json"
+    },
+    {
+      "date": "2026-07-23",
+      "games": 5,
+      "final": 5,
+      "json": "../data/games/2026/2026-07-23.json"
+    },
+    {
+      "date": "2026-07-24",
+      "games": 15,
+      "final": 15,
+      "json": "../data/games/2026/2026-07-24.json"
+    },
+    {
+      "date": "2026-07-25",
+      "games": 15,
+      "final": 15,
+      "json": "../data/games/2026/2026-07-25.json"
+    },
+    {
+      "date": "2026-07-26",
+      "games": 15,
+      "final": 0,
+      "json": "../data/games/2026/2026-07-26.json"
+    }
+  ]
+}

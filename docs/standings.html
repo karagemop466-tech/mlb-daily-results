@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Standings — MLB Daily Results</title>
+<meta name="description" content="Daily MLB game results, box scores and standings, updated automatically.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9918;</text></svg>">
+<style>
+:root {
+  --bg: #0d1117; --panel: #161b22; --panel-2: #1c2230; --line: #2a3240;
+  --text: #e6edf3; --muted: #8b98a9; --accent: #d7382b; --accent-2: #1f6feb;
+  --win: #3fb950;
+}
+@media (prefers-color-scheme: light) {
+  :root { --bg:#f4f6f9; --panel:#fff; --panel-2:#f0f3f7; --line:#dde3ea;
+          --text:#12161c; --muted:#5b6675; --win:#1a7f37; }
+}
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--text);
+  font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+a { color: var(--accent-2); text-decoration: none; }
+a:hover { text-decoration: underline; }
+header.site { background:linear-gradient(120deg,#0b2340,#132f52 60%,var(--accent));
+  color:#fff; padding:26px 20px 22px; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+header.site h1 { margin:0; font-size:1.7rem; letter-spacing:-.02em; }
+header.site h1 a { color:#fff; }
+header.site p { margin:6px 0 0; opacity:.85; font-size:.92rem; }
+nav.datebar { display:flex; gap:8px; flex-wrap:wrap; align-items:center;
+  margin:18px auto 0; }
+nav.datebar a, .btn { background:rgba(255,255,255,.14); color:#fff; padding:6px 12px;
+  border-radius:999px; font-size:.85rem; border:1px solid rgba(255,255,255,.18); }
+nav.datebar a:hover { background:rgba(255,255,255,.26); text-decoration:none; }
+nav.datebar a.current { background:#fff; color:#0b2340; font-weight:600; }
+main { padding: 24px 0 60px; }
+.summary { display:flex; gap:14px; flex-wrap:wrap; margin-bottom:20px; }
+.stat { background:var(--panel); border:1px solid var(--line); border-radius:10px;
+  padding:10px 16px; min-width:110px; }
+.stat b { display:block; font-size:1.35rem; }
+.stat span { color:var(--muted); font-size:.78rem; text-transform:uppercase; letter-spacing:.05em; }
+.games { display:grid; gap:16px; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); }
+.game { background:var(--panel); border:1px solid var(--line); border-radius:12px;
+  overflow:hidden; }
+.game .head { display:flex; justify-content:space-between; font-size:.75rem;
+  color:var(--muted); padding:8px 14px; background:var(--panel-2);
+  border-bottom:1px solid var(--line); text-transform:uppercase; letter-spacing:.04em; }
+.game .final { color:var(--accent); font-weight:700; }
+.teams { padding:6px 14px 10px; }
+.team { display:flex; align-items:center; gap:10px; padding:7px 0; }
+.team + .team { border-top:1px dashed var(--line); }
+.team .logo { width:26px; height:26px; flex:0 0 26px; }
+.team .nm { flex:1; font-weight:600; }
+.team .rec { color:var(--muted); font-weight:400; font-size:.8rem; margin-left:6px; }
+.team .sc { font-variant-numeric:tabular-nums; font-size:1.25rem; font-weight:700;
+  min-width:34px; text-align:right; }
+.team.w .nm, .team.w .sc { color:var(--win); }
+.team.w .sc::after { content:"\25C0"; font-size:.6rem; margin-left:6px; vertical-align:middle; }
+table.line { width:100%; border-collapse:collapse; font-size:.76rem;
+  font-variant-numeric:tabular-nums; }
+table.line th, table.line td { padding:3px 5px; text-align:center; border-bottom:1px solid var(--line); }
+table.line th { color:var(--muted); font-weight:600; }
+table.line td.tm, table.line th.tm { text-align:left; font-weight:600; }
+table.line td.tot { font-weight:700; background:var(--panel-2); }
+.linewrap { padding:0 14px 10px; overflow-x:auto; }
+.meta { padding:9px 14px; border-top:1px solid var(--line); font-size:.78rem;
+  color:var(--muted); background:var(--panel-2); }
+.meta div + div { margin-top:3px; }
+.meta b { color:var(--text); font-weight:600; }
+.hr-list { margin:3px 0 0; padding-left:16px; }
+footer { border-top:1px solid var(--line); color:var(--muted); font-size:.82rem;
+  padding:22px 0 40px; }
+h2.sec { font-size:1.05rem; text-transform:uppercase; letter-spacing:.06em;
+  color:var(--muted); margin:34px 0 12px; }
+table.st { width:100%; border-collapse:collapse; background:var(--panel);
+  border:1px solid var(--line); border-radius:10px; overflow:hidden; font-size:.88rem; }
+table.st th, table.st td { padding:7px 10px; border-bottom:1px solid var(--line); text-align:right; }
+table.st th:first-child, table.st td:first-child { text-align:left; }
+table.st thead th { background:var(--panel-2); color:var(--muted); font-size:.75rem;
+  text-transform:uppercase; letter-spacing:.05em; }
+.divgrid { display:grid; gap:18px; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); }
+.divgrid h3 { margin:0 0 8px; font-size:.95rem; }
+.empty { background:var(--panel); border:1px dashed var(--line); border-radius:12px;
+  padding:40px; text-align:center; color:var(--muted); }
+.arch { columns: 3 190px; column-gap:20px; }
+.arch a { display:block; padding:3px 0; }
+</style>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <h1><a href="index.html">&#9918; MLB Daily Results</a></h1>
+    <p>Box scores, line scores and standings · updated 2026-07-26 15:55 UTC</p>
+    <nav class="datebar"><a href='index.html'>Jul 26</a><a href='day/2026-07-25.html'>Jul 25</a><a href='day/2026-07-24.html'>Jul 24</a><a href='day/2026-07-23.html'>Jul 23</a><a href='day/2026-07-22.html'>Jul 22</a><a href='day/2026-07-21.html'>Jul 21</a><a href='archive.html'>Archive</a><a href='standings.html'>Standings</a></nav>
+  </div>
+</header>
+<main class="wrap"><h2 class='sec'>2026 Standings</h2><div class='divgrid'><div><h3>AL Central</h3><table class='st'><thead><tr><th>Team</th><th>W</th><th>L</th><th>PCT</th><th>GB</th><th>STRK</th></tr></thead><tbody><tr><td>White Sox</td><td>54</td><td>49</td><td>.524</td><td>-</td><td>L2</td></tr><tr><td>Guardians</td><td>54</td><td>52</td><td>.509</td><td>1.5</td><td>L4</td></tr><tr><td>Twins</td><td>52</td><td>54</td><td>.491</td><td>3.5</td><td>W1</td></tr><tr><td>Tigers</td><td>50</td><td>55</td><td>.476</td><td>5.0</td><td>L1</td></tr><tr><td>Royals</td><td>44</td><td>62</td><td>.415</td><td>11.5</td><td>W1</td></tr></tbody></table></div><div><h3>AL East</h3><table class='st'><thead><tr><th>Team</th><th>W</th><th>L</th><th>PCT</th><th>GB</th><th>STRK</th></tr></thead><tbody><tr><td>Rays</td><td>61</td><td>43</td><td>.587</td><td>-</td><td>W2</td></tr><tr><td>Yankees</td><td>59</td><td>45</td><td>.567</td><td>2.0</td><td>W3</td></tr><tr><td>Red Sox</td><td>53</td><td>50</td><td>.515</td><td>7.5</td><td>L1</td></tr><tr><td>Orioles</td><td>51</td><td>54</td><td>.486</td><td>10.5</td><td>W1</td></tr><tr><td>Blue Jays</td><td>48</td><td>57</td><td>.457</td><td>13.5</td><td>W1</td></tr></tbody></table></div><div><h3>AL West</h3><table class='st'><thead><tr><th>Team</th><th>W</th><th>L</th><th>PCT</th><th>GB</th><th>STRK</th></tr></thead><tbody><tr><td>Rangers</td><td>53</td><td>51</td><td>.510</td><td>-</td><td>W2</td></tr><tr><td>Astros</td><td>52</td><td>54</td><td>.491</td><td>2.0</td><td>W5</td></tr><tr><td>Mariners</td><td>51</td><td>54</td><td>.486</td><td>2.5</td><td>L4</td></tr><tr><td>Athletics</td><td>44</td><td>60</td><td>.423</td><td>9.0</td><td>L1</td></tr><tr><td>Angels</td><td>41</td><td>64</td><td>.390</td><td>12.5</td><td>L3</td></tr></tbody></table></div><div><h3>NL Central</h3><table class='st'><thead><tr><th>Team</th><th>W</th><th>L</th><th>PCT</th><th>GB</th><th>STRK</th></tr></thead><tbody><tr><td>Brewers</td><td>65</td><td>39</td><td>.625</td><td>-</td><td>W1</td></tr><tr><td>Cubs</td><td>59</td><td>45</td><td>.567</td><td>6.0</td><td>W2</td></tr><tr><td>Cardinals</td><td>53</td><td>51</td><td>.510</td><td>12.0</td><td>W1</td></tr><tr><td>Pirates</td><td>53</td><td>52</td><td>.505</td><td>12.5</td><td>L3</td></tr><tr><td>Reds</td><td>48</td><td>55</td><td>.466</td><td>16.5</td><td>L1</td></tr></tbody></table></div><div><h3>NL East</h3><table class='st'><thead><tr><th>Team</th><th>W</th><th>L</th><th>PCT</th><th>GB</th><th>STRK</th></tr></thead><tbody><tr><td>Braves</td><td>61</td><td>43</td><td>.587</td><td>-</td><td>L1</td></tr><tr><td>Phillies</td><td>56</td><td>49</td><td>.533</td><td>5.5</td><td>L4</td></tr><tr><td>Nationals</td><td>53</td><td>52</td><td>.505</td><td>8.5</td><td>W1</td></tr><tr><td>Marlins</td><td>52</td><td>53</td><td>.495</td><td>9.5</td><td>L11</td></tr><tr><td>Mets</td><td>43</td><td>62</td><td>.410</td><td>18.5</td><td>L3</td></tr></tbody></table></div><div><h3>NL West</h3><table class='st'><thead><tr><th>Team</th><th>W</th><th>L</th><th>PCT</th><th>GB</th><th>STRK</th></tr></thead><tbody><tr><td>Dodgers</td><td>67</td><td>38</td><td>.638</td><td>-</td><td>W4</td></tr><tr><td>D-backs</td><td>55</td><td>50</td><td>.524</td><td>12.0</td><td>L1</td></tr><tr><td>Padres</td><td>52</td><td>53</td><td>.495</td><td>15.0</td><td>W2</td></tr><tr><td>Giants</td><td>44</td><td>60</td><td>.423</td><td>22.5</td><td>W2</td></tr><tr><td>Rockies</td><td>42</td><td>64</td><td>.396</td><td>25.5</td><td>L1</td></tr></tbody></table></div></div></main>
+<footer class="wrap">
+  <p>Data: <a href="https://statsapi.mlb.com/api/v1/schedule?sportId=1">MLB Stats API</a>.
+  Updated automatically by GitHub Actions. Not affiliated with or endorsed by MLB.</p>
+  <p><a href="archive.html">Archive</a> &nbsp;·&nbsp;
+     <a href="standings.html">Standings</a> &nbsp;·&nbsp;
+     <a href="api/latest.json">JSON API</a></p>
+</footer>
+</body>
+</html>

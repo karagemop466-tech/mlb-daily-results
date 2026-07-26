@@ -1,0 +1,1992 @@
+{
+  "date": "2026-07-25",
+  "generated_at_utc": "2026-07-26T15:55:44Z",
+  "total_games": 15,
+  "final_games": 15,
+  "total_runs": 104,
+  "games": [
+    {
+      "game_pk": 824244,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T17:10:00Z",
+      "day_night": "day",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Comerica Park",
+      "attendance": 32867,
+      "duration_minutes": 142,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "78",
+        "wind": "5 mph, R To L"
+      },
+      "flags": {},
+      "winner_abbr": "KC",
+      "teams": {
+        "away": {
+          "id": 118,
+          "name": "Kansas City Royals",
+          "abbr": "KC",
+          "short": "Kansas City",
+          "club": "Royals",
+          "division": "American League Central",
+          "league": "American League",
+          "score": 3,
+          "hits": 7,
+          "errors": 0,
+          "left_on_base": 5,
+          "record": {
+            "wins": 44,
+            "losses": 62,
+            "ties": 0,
+            "pct": ".415"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Michael Wacha"
+        },
+        "home": {
+          "id": 116,
+          "name": "Detroit Tigers",
+          "abbr": "DET",
+          "short": "Detroit",
+          "club": "Tigers",
+          "division": "American League Central",
+          "league": "American League",
+          "score": 2,
+          "hits": 8,
+          "errors": 1,
+          "left_on_base": 7,
+          "record": {
+            "wins": 50,
+            "losses": 55,
+            "ties": 0,
+            "pct": ".476"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Casey Mize"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 1,
+          "home": 1
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 1,
+          "home": 0
+        }
+      ],
+      "decisions": {
+        "winner": "Daniel Lynch IV",
+        "loser": "Jacob Waguespack",
+        "save": "Alex Lange"
+      },
+      "home_runs": [
+        {
+          "batter": "Hao-Yu Lee",
+          "pitcher": "Michael Wacha",
+          "inning": 4,
+          "half": "bottom",
+          "rbi": 1
+        },
+        {
+          "batter": "Salvador Perez",
+          "pitcher": "Kyle Finnegan",
+          "inning": 7,
+          "half": "top",
+          "rbi": 1
+        },
+        {
+          "batter": "Nick Loftin",
+          "pitcher": "Jacob Waguespack",
+          "inning": 9,
+          "half": "top",
+          "rbi": 1
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/824244"
+    },
+    {
+      "game_pk": 822704,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T20:05:00Z",
+      "day_night": "day",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Nationals Park",
+      "attendance": 30032,
+      "duration_minutes": 155,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "2 mph, In From RF"
+      },
+      "flags": {},
+      "winner_abbr": "WSH",
+      "teams": {
+        "away": {
+          "id": 109,
+          "name": "Arizona Diamondbacks",
+          "abbr": "AZ",
+          "short": "Arizona",
+          "club": "Diamondbacks",
+          "division": "National League West",
+          "league": "National League",
+          "score": 3,
+          "hits": 6,
+          "errors": 1,
+          "left_on_base": 3,
+          "record": {
+            "wins": 55,
+            "losses": 50,
+            "ties": 0,
+            "pct": ".524"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Mitch Bratt"
+        },
+        "home": {
+          "id": 120,
+          "name": "Washington Nationals",
+          "abbr": "WSH",
+          "short": "Washington",
+          "club": "Nationals",
+          "division": "National League East",
+          "league": "National League",
+          "score": 5,
+          "hits": 9,
+          "errors": 0,
+          "left_on_base": 10,
+          "record": {
+            "wins": 53,
+            "losses": 52,
+            "ties": 0,
+            "pct": ".505"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Foster Griffin"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 2,
+          "home": 4
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": null
+        }
+      ],
+      "decisions": {
+        "winner": "Foster Griffin",
+        "loser": "Mitch Bratt",
+        "save": "Clayton Beeter"
+      },
+      "home_runs": [
+        {
+          "batter": "CJ Abrams",
+          "pitcher": "Mitch Bratt",
+          "inning": 5,
+          "half": "bottom",
+          "rbi": 1
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/822704"
+    },
+    {
+      "game_pk": 823197,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T20:05:00Z",
+      "day_night": "day",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Oracle Park",
+      "attendance": 39102,
+      "duration_minutes": 152,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "68",
+        "wind": "13 mph, Varies"
+      },
+      "flags": {},
+      "winner_abbr": "SF",
+      "teams": {
+        "away": {
+          "id": 108,
+          "name": "Los Angeles Angels",
+          "abbr": "LAA",
+          "short": "LA Angels",
+          "club": "Angels",
+          "division": "American League West",
+          "league": "American League",
+          "score": 2,
+          "hits": 9,
+          "errors": 1,
+          "left_on_base": 11,
+          "record": {
+            "wins": 41,
+            "losses": 64,
+            "ties": 0,
+            "pct": ".390"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Ryan Johnson"
+        },
+        "home": {
+          "id": 137,
+          "name": "San Francisco Giants",
+          "abbr": "SF",
+          "short": "San Francisco",
+          "club": "Giants",
+          "division": "National League West",
+          "league": "National League",
+          "score": 9,
+          "hits": 11,
+          "errors": 0,
+          "left_on_base": 6,
+          "record": {
+            "wins": 44,
+            "losses": 60,
+            "ties": 0,
+            "pct": ".423"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Robbie Ray"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 5
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 4
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 1,
+          "home": null
+        }
+      ],
+      "decisions": {
+        "winner": "Robbie Ray",
+        "loser": "Ryan Johnson",
+        "save": null
+      },
+      "home_runs": [
+        {
+          "batter": "Jung Hoo Lee",
+          "pitcher": "Ryan Johnson",
+          "inning": 3,
+          "half": "bottom",
+          "rbi": 3
+        },
+        {
+          "batter": "Rafael Devers",
+          "pitcher": "Brent Suter",
+          "inning": 4,
+          "half": "bottom",
+          "rbi": 3
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/823197"
+    },
+    {
+      "game_pk": 823841,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T20:10:00Z",
+      "day_night": "day",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "loanDepot park",
+      "attendance": 22319,
+      "duration_minutes": 195,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
+      "flags": {},
+      "winner_abbr": "SD",
+      "teams": {
+        "away": {
+          "id": 135,
+          "name": "San Diego Padres",
+          "abbr": "SD",
+          "short": "San Diego",
+          "club": "Padres",
+          "division": "National League West",
+          "league": "National League",
+          "score": 7,
+          "hits": 11,
+          "errors": 0,
+          "left_on_base": 5,
+          "record": {
+            "wins": 52,
+            "losses": 53,
+            "ties": 0,
+            "pct": ".495"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Randy V\u00e1squez"
+        },
+        "home": {
+          "id": 146,
+          "name": "Miami Marlins",
+          "abbr": "MIA",
+          "short": "Miami",
+          "club": "Marlins",
+          "division": "National League East",
+          "league": "National League",
+          "score": 2,
+          "hits": 5,
+          "errors": 0,
+          "left_on_base": 4,
+          "record": {
+            "wins": 52,
+            "losses": 53,
+            "ties": 0,
+            "pct": ".495"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Eury P\u00e9rez"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 2,
+          "home": 1
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 3,
+          "home": 1
+        },
+        {
+          "num": 9,
+          "away": 1,
+          "home": 0
+        }
+      ],
+      "decisions": {
+        "winner": "JP Sears",
+        "loser": "Eury P\u00e9rez",
+        "save": null
+      },
+      "home_runs": [],
+      "mlb_link": "https://www.mlb.com/gameday/823841"
+    },
+    {
+      "game_pk": 824734,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T20:10:00Z",
+      "day_night": "day",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Fenway Park",
+      "attendance": 36902,
+      "duration_minutes": 145,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "78",
+        "wind": "8 mph, In From RF"
+      },
+      "flags": {},
+      "winner_abbr": "TOR",
+      "teams": {
+        "away": {
+          "id": 141,
+          "name": "Toronto Blue Jays",
+          "abbr": "TOR",
+          "short": "Toronto",
+          "club": "Blue Jays",
+          "division": "American League East",
+          "league": "American League",
+          "score": 6,
+          "hits": 15,
+          "errors": 0,
+          "left_on_base": 7,
+          "record": {
+            "wins": 48,
+            "losses": 57,
+            "ties": 0,
+            "pct": ".457"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Dylan Cease"
+        },
+        "home": {
+          "id": 111,
+          "name": "Boston Red Sox",
+          "abbr": "BOS",
+          "short": "Boston",
+          "club": "Red Sox",
+          "division": "American League East",
+          "league": "American League",
+          "score": 0,
+          "hits": 1,
+          "errors": 0,
+          "left_on_base": 3,
+          "record": {
+            "wins": 53,
+            "losses": 50,
+            "ties": 0,
+            "pct": ".515"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Sonny Gray"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 5,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 1,
+          "home": 0
+        }
+      ],
+      "decisions": {
+        "winner": "Dylan Cease",
+        "loser": "Sonny Gray",
+        "save": null
+      },
+      "home_runs": [
+        {
+          "batter": "George Springer",
+          "pitcher": "Sonny Gray",
+          "inning": 3,
+          "half": "top",
+          "rbi": 3
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/824734"
+    },
+    {
+      "game_pk": 823435,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T22:05:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Citizens Bank Park",
+      "attendance": 44562,
+      "duration_minutes": 160,
+      "weather": {
+        "condition": "Clear",
+        "temp": "81",
+        "wind": "9 mph, R To L"
+      },
+      "flags": {},
+      "winner_abbr": "NYY",
+      "teams": {
+        "away": {
+          "id": 147,
+          "name": "New York Yankees",
+          "abbr": "NYY",
+          "short": "NY Yankees",
+          "club": "Yankees",
+          "division": "American League East",
+          "league": "American League",
+          "score": 3,
+          "hits": 7,
+          "errors": 0,
+          "left_on_base": 5,
+          "record": {
+            "wins": 59,
+            "losses": 45,
+            "ties": 0,
+            "pct": ".567"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Ryan Weathers"
+        },
+        "home": {
+          "id": 143,
+          "name": "Philadelphia Phillies",
+          "abbr": "PHI",
+          "short": "Philadelphia",
+          "club": "Phillies",
+          "division": "National League East",
+          "league": "National League",
+          "score": 1,
+          "hits": 7,
+          "errors": 2,
+          "left_on_base": 8,
+          "record": {
+            "wins": 56,
+            "losses": 49,
+            "ties": 0,
+            "pct": ".533"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Tim Mayza"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": 0
+        }
+      ],
+      "decisions": {
+        "winner": "Ryan Weathers",
+        "loser": "Kyle Backhus",
+        "save": "David Bednar"
+      },
+      "home_runs": [
+        {
+          "batter": "Austin Wells",
+          "pitcher": "Brian Keller",
+          "inning": 3,
+          "half": "top",
+          "rbi": 1
+        },
+        {
+          "batter": "Jasson Dom\u00ednguez",
+          "pitcher": "Jos\u00e9 Alvarado",
+          "inning": 7,
+          "half": "top",
+          "rbi": 1
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/823435"
+    },
+    {
+      "game_pk": 822948,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T22:10:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Tropicana Field",
+      "attendance": 24100,
+      "duration_minutes": 144,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
+      "flags": {},
+      "winner_abbr": "TB",
+      "teams": {
+        "away": {
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbr": "CLE",
+          "short": "Cleveland",
+          "club": "Guardians",
+          "division": "American League Central",
+          "league": "American League",
+          "score": 0,
+          "hits": 5,
+          "errors": 0,
+          "left_on_base": 5,
+          "record": {
+            "wins": 54,
+            "losses": 52,
+            "ties": 0,
+            "pct": ".509"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Tanner Bibee"
+        },
+        "home": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbr": "TB",
+          "short": "Tampa Bay",
+          "club": "Rays",
+          "division": "American League East",
+          "league": "American League",
+          "score": 3,
+          "hits": 9,
+          "errors": 0,
+          "left_on_base": 7,
+          "record": {
+            "wins": 61,
+            "losses": 43,
+            "ties": 0,
+            "pct": ".587"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Nick Martinez"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 2
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": null
+        }
+      ],
+      "decisions": {
+        "winner": "Nick Martinez",
+        "loser": "Tanner Bibee",
+        "save": "Bryan Baker"
+      },
+      "home_runs": [],
+      "mlb_link": "https://www.mlb.com/gameday/822948"
+    },
+    {
+      "game_pk": 823355,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T22:40:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "PNC Park",
+      "attendance": 39105,
+      "duration_minutes": 168,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "8 mph, Out To LF"
+      },
+      "flags": {},
+      "winner_abbr": "CHC",
+      "teams": {
+        "away": {
+          "id": 112,
+          "name": "Chicago Cubs",
+          "abbr": "CHC",
+          "short": "Chi Cubs",
+          "club": "Cubs",
+          "division": "National League Central",
+          "league": "National League",
+          "score": 11,
+          "hits": 16,
+          "errors": 1,
+          "left_on_base": 11,
+          "record": {
+            "wins": 59,
+            "losses": 45,
+            "ties": 0,
+            "pct": ".567"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Shota Imanaga"
+        },
+        "home": {
+          "id": 134,
+          "name": "Pittsburgh Pirates",
+          "abbr": "PIT",
+          "short": "Pittsburgh",
+          "club": "Pirates",
+          "division": "National League Central",
+          "league": "National League",
+          "score": 0,
+          "hits": 5,
+          "errors": 1,
+          "left_on_base": 7,
+          "record": {
+            "wins": 53,
+            "losses": 52,
+            "ties": 0,
+            "pct": ".505"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Paul Skenes"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 3,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 5,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 2,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": 0
+        }
+      ],
+      "decisions": {
+        "winner": "Shota Imanaga",
+        "loser": "Paul Skenes",
+        "save": "Javier Assad"
+      },
+      "home_runs": [
+        {
+          "batter": "Pete Crow-Armstrong",
+          "pitcher": "Ron Marinaccio",
+          "inning": 7,
+          "half": "top",
+          "rbi": 2
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/823355"
+    },
+    {
+      "game_pk": 824811,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T23:05:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Oriole Park at Camden Yards",
+      "attendance": 37883,
+      "duration_minutes": 154,
+      "weather": {
+        "condition": "Clear",
+        "temp": "80",
+        "wind": "3 mph, In From RF"
+      },
+      "flags": {},
+      "winner_abbr": "BAL",
+      "teams": {
+        "away": {
+          "id": 144,
+          "name": "Atlanta Braves",
+          "abbr": "ATL",
+          "short": "Atlanta",
+          "club": "Braves",
+          "division": "National League East",
+          "league": "National League",
+          "score": 2,
+          "hits": 6,
+          "errors": 2,
+          "left_on_base": 6,
+          "record": {
+            "wins": 61,
+            "losses": 43,
+            "ties": 0,
+            "pct": ".587"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Bryce Elder"
+        },
+        "home": {
+          "id": 110,
+          "name": "Baltimore Orioles",
+          "abbr": "BAL",
+          "short": "Baltimore",
+          "club": "Orioles",
+          "division": "American League East",
+          "league": "American League",
+          "score": 3,
+          "hits": 7,
+          "errors": 0,
+          "left_on_base": 8,
+          "record": {
+            "wins": 51,
+            "losses": 54,
+            "ties": 0,
+            "pct": ".486"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Brandon Young"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 6,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": 1
+        }
+      ],
+      "decisions": {
+        "winner": "Yennier Cano",
+        "loser": "Didier Fuentes",
+        "save": null
+      },
+      "home_runs": [
+        {
+          "batter": "Gunnar Henderson",
+          "pitcher": "Bryce Elder",
+          "inning": 5,
+          "half": "bottom",
+          "rbi": 1
+        },
+        {
+          "batter": "Ozzie Albies",
+          "pitcher": "Rico Garcia",
+          "inning": 8,
+          "half": "top",
+          "rbi": 1
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/824811"
+    },
+    {
+      "game_pk": 823679,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T23:10:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Target Field",
+      "attendance": 30873,
+      "duration_minutes": 145,
+      "weather": {
+        "condition": "Clear",
+        "temp": "93",
+        "wind": "5 mph, Out To RF"
+      },
+      "flags": {},
+      "winner_abbr": "MIN",
+      "teams": {
+        "away": {
+          "id": 133,
+          "name": "Athletics",
+          "abbr": "ATH",
+          "short": "Athletics",
+          "club": "Athletics",
+          "division": "American League West",
+          "league": "American League",
+          "score": 0,
+          "hits": 3,
+          "errors": 0,
+          "left_on_base": 7,
+          "record": {
+            "wins": 44,
+            "losses": 60,
+            "ties": 0,
+            "pct": ".423"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Brady Basso"
+        },
+        "home": {
+          "id": 142,
+          "name": "Minnesota Twins",
+          "abbr": "MIN",
+          "short": "Minnesota",
+          "club": "Twins",
+          "division": "American League Central",
+          "league": "American League",
+          "score": 2,
+          "hits": 6,
+          "errors": 1,
+          "left_on_base": 6,
+          "record": {
+            "wins": 52,
+            "losses": 54,
+            "ties": 0,
+            "pct": ".491"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Kendry Rojas"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 2
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": null
+        }
+      ],
+      "decisions": {
+        "winner": "Taylor Rogers",
+        "loser": "Mason Barnett",
+        "save": "Yoendrys G\u00f3mez"
+      },
+      "home_runs": [],
+      "mlb_link": "https://www.mlb.com/gameday/823679"
+    },
+    {
+      "game_pk": 823758,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T23:10:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "American Family Field",
+      "attendance": 34328,
+      "duration_minutes": 164,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "79",
+        "wind": "5 mph, R To L"
+      },
+      "flags": {},
+      "winner_abbr": "MIL",
+      "teams": {
+        "away": {
+          "id": 115,
+          "name": "Colorado Rockies",
+          "abbr": "COL",
+          "short": "Colorado",
+          "club": "Rockies",
+          "division": "National League West",
+          "league": "National League",
+          "score": 5,
+          "hits": 7,
+          "errors": 1,
+          "left_on_base": 7,
+          "record": {
+            "wins": 42,
+            "losses": 64,
+            "ties": 0,
+            "pct": ".396"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Ryan Feltner"
+        },
+        "home": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbr": "MIL",
+          "short": "Milwaukee",
+          "club": "Brewers",
+          "division": "National League Central",
+          "league": "National League",
+          "score": 8,
+          "hits": 13,
+          "errors": 1,
+          "left_on_base": 6,
+          "record": {
+            "wins": 65,
+            "losses": 39,
+            "ties": 0,
+            "pct": ".625"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Robert Gasser"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 2
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 2,
+          "home": 1
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 4
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 9,
+          "away": 3,
+          "home": null
+        }
+      ],
+      "decisions": {
+        "winner": "Robert Gasser",
+        "loser": "Ryan Feltner",
+        "save": "Trevor Megill"
+      },
+      "home_runs": [
+        {
+          "batter": "Cooper Pratt",
+          "pitcher": "Ryan Feltner",
+          "inning": 2,
+          "half": "bottom",
+          "rbi": 1
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/823758"
+    },
+    {
+      "game_pk": 824571,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T23:10:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Rate Field",
+      "attendance": 30029,
+      "duration_minutes": 164,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "78",
+        "wind": "9 mph, R To L"
+      },
+      "flags": {},
+      "winner_abbr": "HOU",
+      "teams": {
+        "away": {
+          "id": 117,
+          "name": "Houston Astros",
+          "abbr": "HOU",
+          "short": "Houston",
+          "club": "Astros",
+          "division": "American League West",
+          "league": "American League",
+          "score": 4,
+          "hits": 6,
+          "errors": 1,
+          "left_on_base": 5,
+          "record": {
+            "wins": 52,
+            "losses": 54,
+            "ties": 0,
+            "pct": ".491"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Hunter Brown"
+        },
+        "home": {
+          "id": 145,
+          "name": "Chicago White Sox",
+          "abbr": "CWS",
+          "short": "Chi White Sox",
+          "club": "White Sox",
+          "division": "American League Central",
+          "league": "American League",
+          "score": 1,
+          "hits": 5,
+          "errors": 1,
+          "left_on_base": 5,
+          "record": {
+            "wins": 54,
+            "losses": 49,
+            "ties": 0,
+            "pct": ".524"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Sean Burke"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 3,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": 1
+        }
+      ],
+      "decisions": {
+        "winner": "Hunter Brown",
+        "loser": "Sean Burke",
+        "save": "Josh Hader"
+      },
+      "home_runs": [],
+      "mlb_link": "https://www.mlb.com/gameday/824571"
+    },
+    {
+      "game_pk": 822869,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T23:15:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Globe Life Field",
+      "attendance": 34006,
+      "duration_minutes": 157,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "74",
+        "wind": "0 mph, None"
+      },
+      "flags": {},
+      "winner_abbr": "TEX",
+      "teams": {
+        "away": {
+          "id": 136,
+          "name": "Seattle Mariners",
+          "abbr": "SEA",
+          "short": "Seattle",
+          "club": "Mariners",
+          "division": "American League West",
+          "league": "American League",
+          "score": 1,
+          "hits": 5,
+          "errors": 0,
+          "left_on_base": 4,
+          "record": {
+            "wins": 51,
+            "losses": 54,
+            "ties": 0,
+            "pct": ".486"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Bryan Woo"
+        },
+        "home": {
+          "id": 140,
+          "name": "Texas Rangers",
+          "abbr": "TEX",
+          "short": "Texas",
+          "club": "Rangers",
+          "division": "American League West",
+          "league": "American League",
+          "score": 7,
+          "hits": 12,
+          "errors": 0,
+          "left_on_base": 7,
+          "record": {
+            "wins": 53,
+            "losses": 51,
+            "ties": 0,
+            "pct": ".510"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Nathan Eovaldi"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 3
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 2
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 2
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": null
+        }
+      ],
+      "decisions": {
+        "winner": "Nathan Eovaldi",
+        "loser": "Bryan Woo",
+        "save": null
+      },
+      "home_runs": [],
+      "mlb_link": "https://www.mlb.com/gameday/822869"
+    },
+    {
+      "game_pk": 823027,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T23:15:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Busch Stadium",
+      "attendance": 33975,
+      "duration_minutes": 139,
+      "weather": {
+        "condition": "Clear",
+        "temp": "90",
+        "wind": "2 mph, In From RF"
+      },
+      "flags": {},
+      "winner_abbr": "STL",
+      "teams": {
+        "away": {
+          "id": 113,
+          "name": "Cincinnati Reds",
+          "abbr": "CIN",
+          "short": "Cincinnati",
+          "club": "Reds",
+          "division": "National League Central",
+          "league": "National League",
+          "score": 0,
+          "hits": 3,
+          "errors": 1,
+          "left_on_base": 6,
+          "record": {
+            "wins": 48,
+            "losses": 55,
+            "ties": 0,
+            "pct": ".466"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Hunter Greene"
+        },
+        "home": {
+          "id": 138,
+          "name": "St. Louis Cardinals",
+          "abbr": "STL",
+          "short": "St. Louis",
+          "club": "Cardinals",
+          "division": "National League Central",
+          "league": "National League",
+          "score": 7,
+          "hits": 10,
+          "errors": 0,
+          "left_on_base": 5,
+          "record": {
+            "wins": 53,
+            "losses": 51,
+            "ties": 0,
+            "pct": ".510"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Andre Pallante"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 6
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": null
+        }
+      ],
+      "decisions": {
+        "winner": "Andre Pallante",
+        "loser": "Hunter Greene",
+        "save": null
+      },
+      "home_runs": [],
+      "mlb_link": "https://www.mlb.com/gameday/823027"
+    },
+    {
+      "game_pk": 823600,
+      "date": "2026-07-25",
+      "game_type": "R",
+      "game_type_label": "Regular Season",
+      "series_description": "Regular Season",
+      "series_status": "Season",
+      "double_header": "N",
+      "game_number": 1,
+      "state": "Final",
+      "status": "Final",
+      "is_final": true,
+      "start_time_utc": "2026-07-25T23:15:00Z",
+      "day_night": "night",
+      "scheduled_innings": 9,
+      "innings_played": 9,
+      "venue": "Citi Field",
+      "attendance": 36356,
+      "duration_minutes": 168,
+      "weather": {
+        "condition": "Clear",
+        "temp": "77",
+        "wind": "12 mph, R To L"
+      },
+      "flags": {},
+      "winner_abbr": "LAD",
+      "teams": {
+        "away": {
+          "id": 119,
+          "name": "Los Angeles Dodgers",
+          "abbr": "LAD",
+          "short": "LA Dodgers",
+          "club": "Dodgers",
+          "division": "National League West",
+          "league": "National League",
+          "score": 4,
+          "hits": 8,
+          "errors": 0,
+          "left_on_base": 6,
+          "record": {
+            "wins": 67,
+            "losses": 38,
+            "ties": 0,
+            "pct": ".638"
+          },
+          "is_winner": true,
+          "probable_pitcher": "Yoshinobu Yamamoto"
+        },
+        "home": {
+          "id": 121,
+          "name": "New York Mets",
+          "abbr": "NYM",
+          "short": "NY Mets",
+          "club": "Mets",
+          "division": "National League East",
+          "league": "National League",
+          "score": 3,
+          "hits": 6,
+          "errors": 1,
+          "left_on_base": 10,
+          "record": {
+            "wins": 43,
+            "losses": 62,
+            "ties": 0,
+            "pct": ".410"
+          },
+          "is_winner": false,
+          "probable_pitcher": "Nolan McLean"
+        }
+      },
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 3,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 1,
+          "home": 1
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 8,
+          "away": 0,
+          "home": 2
+        },
+        {
+          "num": 9,
+          "away": 0,
+          "home": 0
+        }
+      ],
+      "decisions": {
+        "winner": "Yoshinobu Yamamoto",
+        "loser": "Nolan McLean",
+        "save": "Brock Stewart"
+      },
+      "home_runs": [
+        {
+          "batter": "Kyle Tucker",
+          "pitcher": "Nolan McLean",
+          "inning": 3,
+          "half": "top",
+          "rbi": 1
+        }
+      ],
+      "mlb_link": "https://www.mlb.com/gameday/823600"
+    }
+  ],
+  "source": "MLB Stats API (statsapi.mlb.com)"
+}
