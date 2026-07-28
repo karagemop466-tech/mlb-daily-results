@@ -1616,9 +1616,11 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-07-27,824245,R,Final,Baltimore Orioles,BAL,8,Detroit Tigers,DET,5,BAL,9,12,11,0,1,Grant Wolfram,Keider Montero,Rico Garcia,Comerica Park,21913,176,night,2026-07-27T22:40:00Z
 2026-07-27,822705,R,Final,Toronto Blue Jays,TOR,3,Washington Nationals,WSH,2,TOR,9,7,8,1,0,Mason Fluharty,Eddy Yean,Louis Varland,Nationals Park,17618,171,night,2026-07-27T22:45:00Z
 2026-07-27,823597,R,Final,Atlanta Braves,ATL,3,New York Mets,NYM,14,NYM,9,6,19,0,0,Zac Thornton,Connor Thomas,,Citi Field,29466,154,night,2026-07-27T23:10:00Z
-2026-07-28,824490,R,Postponed,Cleveland Guardians,CLE,,Cincinnati Reds,CIN,,,,,,,,,,,Great American Ball Park,,,night,2026-07-27T23:10:00Z
+2026-07-28,824490,R,Postponed,Cleveland Guardians,CLE,,Cincinnati Reds,CIN,,,,,,,,,,,Great American Ball Park,16866,175,night,2026-07-27T23:10:00Z
 2026-07-27,824570,R,Final,New York Yankees,NYY,9,Chicago White Sox,CWS,5,NYY,9,10,10,2,3,Brent Headrick,Bryan Hudson,David Bednar,Rate Field,22357,193,night,2026-07-27T23:40:00Z
 2026-07-27,823025,R,Final,Chicago Cubs,CHC,7,St. Louis Cardinals,STL,3,CHC,9,14,7,0,1,David Peterson,Matthew Liberatore,,Busch Stadium,24209,161,night,2026-07-27T23:45:00Z
 2026-07-27,824001,R,Final,Houston Astros,HOU,6,Los Angeles Angels,LAA,4,HOU,9,5,6,1,2,Cristian Javier,José Fermin,Josh Hader,Angel Stadium,30121,198,night,2026-07-28T01:38:00Z
 2026-07-27,824977,R,Final,Boston Red Sox,BOS,4,Athletics,ATH,2,BOS,9,5,6,2,0,Payton Tolle,Jack Perkins,Aroldis Chapman,Sutter Health Park,10486,155,night,2026-07-28T01:40:00Z
 2026-07-27,823195,R,Final,Milwaukee Brewers,MIL,0,San Francisco Giants,SF,3,SF,9,3,6,1,0,Tyler Mahle,Brandon Sproat,Erik Miller,Oracle Park,35107,140,night,2026-07-28T01:45:00Z
+2026-07-28,824490,R,Game Over,Cleveland Guardians,CLE,6,Cincinnati Reds,CIN,5,CLE,9,9,11,0,1,Colin Holderman,Sam Moll,Cade Smith,Great American Ball Park,16866,175,day,2026-07-28T17:40:00Z
+2026-07-29,823598,R,Postponed,Atlanta Braves,ATL,,New York Mets,NYM,,,,,,,,,,,Citi Field,,,night,2026-07-28T23:10:00Z

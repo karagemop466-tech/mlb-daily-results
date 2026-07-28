@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated_at_utc": "2026-07-28T15:56:08Z",
+  "generated_at_utc": "2026-07-28T20:41:43Z",
   "total_games": 12,
   "final_games": 12,
   "total_runs": 108,
@@ -908,11 +908,11 @@
       "scheduled_innings": 9,
       "innings_played": null,
       "venue": "Great American Ball Park",
-      "attendance": null,
-      "duration_minutes": null,
+      "attendance": 16866,
+      "duration_minutes": 175,
       "weather": {
-        "condition": "Cloudy",
-        "temp": "81",
+        "condition": "Partly Cloudy",
+        "temp": "84",
         "wind": "10 mph, Varies"
       },
       "flags": {},
@@ -931,10 +931,10 @@
           "errors": null,
           "left_on_base": null,
           "record": {
-            "wins": 54,
+            "wins": 55,
             "losses": 53,
             "ties": 0,
-            "pct": ".505"
+            "pct": ".509"
           },
           "is_winner": null,
           "probable_pitcher": "Slade Cecconi"
@@ -953,9 +953,9 @@
           "left_on_base": null,
           "record": {
             "wins": 49,
-            "losses": 55,
+            "losses": 56,
             "ties": 0,
-            "pct": ".471"
+            "pct": ".467"
           },
           "is_winner": null,
           "probable_pitcher": "Chase Burns"
