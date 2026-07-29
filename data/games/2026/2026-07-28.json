@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at_utc": "2026-07-29T15:34:58Z",
+  "generated_at_utc": "2026-07-29T20:16:36Z",
   "total_games": 16,
   "final_games": 16,
   "total_runs": 134,
@@ -182,7 +182,7 @@
           "league": "American League",
           "score": 4,
           "hits": 7,
-          "errors": 1,
+          "errors": 0,
           "left_on_base": 7,
           "record": {
             "wins": 55,
@@ -904,9 +904,9 @@
           "left_on_base": null,
           "record": {
             "wins": 62,
-            "losses": 44,
+            "losses": 45,
             "ties": 0,
-            "pct": ".585"
+            "pct": ".579"
           },
           "is_winner": null,
           "probable_pitcher": "Chris Sale"
@@ -924,10 +924,10 @@
           "errors": null,
           "left_on_base": null,
           "record": {
-            "wins": 45,
+            "wins": 46,
             "losses": 62,
             "ties": 0,
-            "pct": ".421"
+            "pct": ".426"
           },
           "is_winner": null,
           "probable_pitcher": "Christian Scott"
