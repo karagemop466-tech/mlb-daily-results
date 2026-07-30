@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-29 20:16 UTC",
+  "generated_at_utc": "2026-07-30 15:34 UTC",
   "days": [
     {
       "date": "2026-03-26",
@@ -754,8 +754,14 @@
     {
       "date": "2026-07-29",
       "games": 16,
-      "final": 4,
+      "final": 16,
       "json": "../data/games/2026/2026-07-29.json"
+    },
+    {
+      "date": "2026-07-30",
+      "games": 10,
+      "final": 0,
+      "json": "../data/games/2026/2026-07-30.json"
     }
   ]
 }
