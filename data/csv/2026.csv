@@ -1654,3 +1654,5 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-07-29,824002,R,Final,Houston Astros,HOU,7,Los Angeles Angels,LAA,4,HOU,9,11,9,0,2,Hayden Wesneski,Mitch Farris,Bryan Abreu,Angel Stadium,26417,170,night,2026-07-30T01:38:00Z
 2026-07-29,824973,R,Final,Boston Red Sox,BOS,4,Athletics,ATH,2,BOS,10,12,8,2,1,Aroldis Chapman,José Suarez,Greg Weissert,Sutter Health Park,9674,196,night,2026-07-30T01:40:00Z
 2026-07-29,823924,R,Final,Seattle Mariners,SEA,2,Los Angeles Dodgers,LAD,4,LAD,9,5,11,0,1,Eric Lauer,Emerson Hancock,Edwin Díaz,UNIQLO Field at Dodger Stadium,46065,151,night,2026-07-30T02:10:00Z
+2026-07-30,822946,R,Final,Texas Rangers,TEX,2,Tampa Bay Rays,TB,3,TB,9,2,9,0,1,Garrett Cleavinger,Ben Peoples,Bryan Baker,Tropicana Field,15322,169,day,2026-07-30T16:10:00Z
+2026-07-30,823674,R,Final,Kansas City Royals,KC,3,Minnesota Twins,MIN,4,MIN,9,8,3,0,1,Yoendrys Gómez,Matt Strahm,,Target Field,22944,143,day,2026-07-30T17:40:00Z
