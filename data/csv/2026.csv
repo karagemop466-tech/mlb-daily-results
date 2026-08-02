@@ -1694,3 +1694,5 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-08-01,823920,R,Final,Boston Red Sox,BOS,3,Los Angeles Dodgers,LAD,2,BOS,9,4,10,0,0,Justin Slaten,Yoshinobu Yamamoto,Aroldis Chapman,UNIQLO Field at Dodger Stadium,49291,129,night,2026-08-02T01:10:00Z
 2026-08-01,824000,R,Final,Milwaukee Brewers,MIL,3,Los Angeles Angels,LAA,1,MIL,9,5,5,0,0,Chad Patrick,Samy Natera Jr.,Trevor Megill,Angel Stadium,31124,154,night,2026-08-02T01:38:00Z
 2026-08-01,824972,R,Final,Detroit Tigers,DET,8,Athletics,ATH,6,DET,9,15,15,0,0,Framber Valdez,Jack Perkins,Kenley Jansen,Sutter Health Park,10426,189,night,2026-08-02T01:40:00Z
+2026-08-02,824891,R,Final,Washington Nationals,WSH,2,Atlanta Braves,ATL,4,ATL,9,4,7,2,0,Dylan Dodd,Cade Cavalli,Raisel Iglesias,Truist Park,27143,142,day,2026-08-02T17:35:00Z
+2026-08-02,822783,R,Game Over,St. Louis Cardinals,STL,5,Toronto Blue Jays,TOR,1,STL,9,8,5,1,1,George Soriano,Louis Varland,,Rogers Centre,41321,154,day,2026-08-02T17:37:00Z
