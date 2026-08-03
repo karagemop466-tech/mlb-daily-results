@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated_at_utc": "2026-08-03T16:58:35Z",
+  "generated_at_utc": "2026-08-03T20:43:49Z",
   "total_games": 8,
   "final_games": 0,
   "total_runs": 0,
@@ -15,7 +15,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-03T22:40:00Z",
       "day_night": "night",
@@ -24,7 +24,11 @@
       "venue": "Citizens Bank Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "82",
+        "wind": "5 mph, Out To CF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -90,16 +94,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-03T23:05:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Yankee Stadium",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "81",
+        "wind": "8 mph, Out To CF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -111,10 +119,10 @@
           "club": "Cardinals",
           "division": "National League Central",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 55,
             "losses": 57,
@@ -132,10 +140,10 @@
           "club": "Yankees",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 63,
             "losses": 49,
@@ -146,7 +154,13 @@
           "probable_pitcher": "Cam Schlittler"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -165,7 +179,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-03T23:40:00Z",
       "day_night": "night",
@@ -174,7 +188,11 @@
       "venue": "American Family Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -240,7 +258,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T00:05:00Z",
       "day_night": "night",
@@ -249,7 +267,11 @@
       "venue": "Globe Life Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -293,7 +315,7 @@
             "pct": ".491"
           },
           "is_winner": null,
-          "probable_pitcher": null
+          "probable_pitcher": "Cal Quantrill"
         }
       },
       "innings": [],
@@ -315,7 +337,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T00:05:00Z",
       "day_night": "night",
@@ -324,7 +346,11 @@
       "venue": "Wrigley Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Clear",
+        "temp": "73",
+        "wind": "8 mph, R To L"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -347,7 +373,7 @@
             "pct": ".616"
           },
           "is_winner": null,
-          "probable_pitcher": null
+          "probable_pitcher": "Justin Wrobleski"
         },
         "home": {
           "id": 112,
