@@ -1709,3 +1709,11 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-08-02,823107,R,Final,Minnesota Twins,MIN,6,Seattle Mariners,SEA,7,SEA,9,11,14,0,1,Andrés Muñoz,Yoendrys Gómez,,T-Mobile Park,41710,170,day,2026-08-02T20:10:00Z
 2026-08-02,823270,R,Final,San Francisco Giants,SF,4,San Diego Padres,SD,5,SD,9,7,8,2,1,Griffin Canning,Landen Roupp,Adrian Morejon,Petco Park,43856,179,day,2026-08-02T20:10:00Z
 2026-08-02,823919,R,Final,Boston Red Sox,BOS,8,Los Angeles Dodgers,LAD,4,BOS,9,9,9,0,1,Jake Bennett,Emmet Sheehan,,UNIQLO Field at Dodger Stadium,46834,189,day,2026-08-02T23:20:00Z
+2026-08-03,823431,R,Final,Washington Nationals,WSH,3,Philadelphia Phillies,PHI,6,PHI,9,6,5,0,1,Kyle Backhus,Tom Cosgrove,Jhoan Duran,Citizens Bank Park,41115,158,night,2026-08-03T22:40:00Z
+2026-08-03,823520,R,Final,St. Louis Cardinals,STL,13,New York Yankees,NYY,7,STL,9,13,10,0,0,Gordon Graceffo,Angel Chivilli,,Yankee Stadium,38151,205,night,2026-08-03T23:05:00Z
+2026-08-03,823757,R,Final,Pittsburgh Pirates,PIT,4,Milwaukee Brewers,MIL,3,PIT,9,8,6,1,1,Bubba Chandler,Brandon Sproat,Mason Montgomery,American Family Field,30684,160,night,2026-08-03T23:40:00Z
+2026-08-03,822867,R,Final,San Francisco Giants,SF,5,Texas Rangers,TEX,1,SF,9,6,7,0,5,Logan Webb,Cal Quantrill,,Globe Life Field,23736,171,night,2026-08-04T00:05:00Z
+2026-08-03,824647,R,Final,Los Angeles Dodgers,LAD,5,Chicago Cubs,CHC,10,CHC,9,10,10,1,1,Matthew Boyd,Justin Wrobleski,,Wrigley Field,39384,160,night,2026-08-04T00:05:00Z
+2026-08-03,824160,R,Final,Toronto Blue Jays,TOR,3,Houston Astros,HOU,1,TOR,9,7,10,0,1,Shane Bieber,Cristian Javier,Tyler Rogers,Daikin Park,22789,148,night,2026-08-04T00:10:00Z
+2026-08-03,824324,R,Final,Tampa Bay Rays,TB,13,Colorado Rockies,COL,9,TB,9,15,15,0,2,Ian Seymour,Michael Lorenzen,,Coors Field,19598,158,night,2026-08-04T00:40:00Z
+2026-08-03,825095,R,Final,San Diego Padres,SD,1,Arizona Diamondbacks,AZ,5,AZ,9,6,9,1,1,Brandon Pfaadt,Michael King,,Chase Field,22008,153,night,2026-08-04T01:40:00Z
