@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at_utc": "2026-08-04T16:21:51Z",
+  "generated_at_utc": "2026-08-04T20:54:54Z",
   "total_games": 15,
   "final_games": 0,
   "total_runs": 0,
@@ -15,16 +15,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T22:35:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Oriole Park at Camden Yards",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "7 mph, In From CF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -36,10 +40,10 @@
           "club": "Angels",
           "division": "American League West",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 43,
             "losses": 69,
@@ -57,10 +61,10 @@
           "club": "Orioles",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 54,
             "losses": 58,
@@ -68,10 +72,16 @@
             "pct": ".482"
           },
           "is_winner": null,
-          "probable_pitcher": null
+          "probable_pitcher": "Cade Povich"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -90,7 +100,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T22:40:00Z",
       "day_night": "night",
@@ -99,7 +109,11 @@
       "venue": "Citizens Bank Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "2 mph, In From RF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -122,7 +136,7 @@
             "pct": ".482"
           },
           "is_winner": null,
-          "probable_pitcher": "Zack Littell"
+          "probable_pitcher": "Carson Palmquist"
         },
         "home": {
           "id": 143,
@@ -165,16 +179,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T22:40:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Progressive Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Clear",
+        "temp": "82",
+        "wind": "5 mph, In From CF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -186,10 +204,10 @@
           "club": "Mets",
           "division": "National League East",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 47,
             "losses": 66,
@@ -207,10 +225,10 @@
           "club": "Guardians",
           "division": "American League Central",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 57,
             "losses": 56,
@@ -221,7 +239,13 @@
           "probable_pitcher": "Joey Cantillo"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -240,16 +264,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T22:40:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Great American Ball Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Clear",
+        "temp": "84",
+        "wind": "3 mph, L To R"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -261,10 +289,10 @@
           "club": "Athletics",
           "division": "American League West",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 45,
             "losses": 67,
@@ -282,10 +310,10 @@
           "club": "Reds",
           "division": "National League Central",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 53,
             "losses": 58,
@@ -296,7 +324,13 @@
           "probable_pitcher": "Brady Singer"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -315,16 +349,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T23:05:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Yankee Stadium",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "80",
+        "wind": "6 mph, R To L"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -336,10 +374,10 @@
           "club": "Cardinals",
           "division": "National League Central",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 56,
             "losses": 57,
@@ -357,10 +395,10 @@
           "club": "Yankees",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 63,
             "losses": 50,
@@ -371,7 +409,13 @@
           "probable_pitcher": "Ryan Weathers"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -390,16 +434,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T23:10:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Fenway Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Clear",
+        "temp": "82",
+        "wind": "5 mph, Out To CF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -411,10 +459,10 @@
           "club": "White Sox",
           "division": "American League Central",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 59,
             "losses": 52,
@@ -432,10 +480,10 @@
           "club": "Red Sox",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 60,
             "losses": 51,
@@ -446,7 +494,13 @@
           "probable_pitcher": "Patrick Sandoval"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -465,16 +519,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T23:15:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Truist Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "3 mph, L To R"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -486,10 +544,10 @@
           "club": "Marlins",
           "division": "National League East",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 58,
             "losses": 55,
@@ -507,10 +565,10 @@
           "club": "Braves",
           "division": "National League East",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 67,
             "losses": 45,
@@ -521,7 +579,13 @@
           "probable_pitcher": "Grant Holmes"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -540,7 +604,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T23:40:00Z",
       "day_night": "night",
@@ -549,7 +613,11 @@
       "venue": "American Family Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -615,16 +683,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-04T23:40:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Kauffman Stadium",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "91",
+        "wind": "6 mph, R To L"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -636,10 +708,10 @@
           "club": "Twins",
           "division": "American League Central",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 56,
             "losses": 57,
@@ -657,10 +729,10 @@
           "club": "Royals",
           "division": "American League Central",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 46,
             "losses": 67,
@@ -671,7 +743,13 @@
           "probable_pitcher": "Randy Dobnak"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -690,16 +768,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-05T00:05:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Globe Life Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -711,10 +793,10 @@
           "club": "Giants",
           "division": "National League West",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 48,
             "losses": 65,
@@ -732,10 +814,10 @@
           "club": "Rangers",
           "division": "American League West",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 55,
             "losses": 58,
@@ -746,7 +828,13 @@
           "probable_pitcher": "MacKenzie Gore"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -840,7 +928,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-05T00:10:00Z",
       "day_night": "night",
@@ -849,7 +937,11 @@
       "venue": "Daikin Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -915,7 +1007,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-05T00:40:00Z",
       "day_night": "night",
@@ -924,7 +1016,11 @@
       "venue": "Coors Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "80",
+        "wind": "8 mph, R To L"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -1022,7 +1118,7 @@
             "pct": ".482"
           },
           "is_winner": null,
-          "probable_pitcher": null
+          "probable_pitcher": "Troy Melton"
         },
         "home": {
           "id": 136,
