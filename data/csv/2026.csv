@@ -1717,3 +1717,18 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-08-03,824160,R,Final,Toronto Blue Jays,TOR,3,Houston Astros,HOU,1,TOR,9,7,10,0,1,Shane Bieber,Cristian Javier,Tyler Rogers,Daikin Park,22789,148,night,2026-08-04T00:10:00Z
 2026-08-03,824324,R,Final,Tampa Bay Rays,TB,13,Colorado Rockies,COL,9,TB,9,15,15,0,2,Ian Seymour,Michael Lorenzen,,Coors Field,19598,158,night,2026-08-04T00:40:00Z
 2026-08-03,825095,R,Final,San Diego Padres,SD,1,Arizona Diamondbacks,AZ,5,AZ,9,6,9,1,1,Brandon Pfaadt,Michael King,,Chase Field,22008,153,night,2026-08-04T01:40:00Z
+2026-08-04,824805,R,Final,Los Angeles Angels,LAA,1,Baltimore Orioles,BAL,3,BAL,9,11,4,0,0,Cade Povich,Grayson Rodriguez,Yennier Cano,Oriole Park at Camden Yards,18585,140,night,2026-08-04T22:35:00Z
+2026-08-04,823432,R,Final,Washington Nationals,WSH,0,Philadelphia Phillies,PHI,5,PHI,9,5,11,0,0,Jesús Luzardo,Carson Palmquist,,Citizens Bank Park,38731,135,night,2026-08-04T22:40:00Z
+2026-08-04,824403,R,Final,New York Mets,NYM,6,Cleveland Guardians,CLE,2,NYM,9,9,7,1,1,Sean Manaea,Joey Cantillo,,Progressive Field,24636,151,night,2026-08-04T22:40:00Z
+2026-08-04,824484,R,Final,Athletics,ATH,4,Cincinnati Reds,CIN,5,CIN,9,8,5,0,1,Julian Garcia,Hogan Harris,Emilio Pagán,Great American Ball Park,21714,155,night,2026-08-04T22:40:00Z
+2026-08-04,823517,R,Final,St. Louis Cardinals,STL,0,New York Yankees,NYY,2,NYY,9,6,5,0,0,Ryan Weathers,Hunter Dobbins,David Bednar,Yankee Stadium,41081,141,night,2026-08-04T23:05:00Z
+2026-08-04,824731,R,Final,Chicago White Sox,CWS,2,Boston Red Sox,BOS,14,BOS,9,6,15,1,0,Patrick Sandoval,Davis Martin,Brayan Bello,Fenway Park,37669,160,night,2026-08-04T23:10:00Z
+2026-08-04,824888,R,Final,Miami Marlins,MIA,2,Atlanta Braves,ATL,4,ATL,9,8,7,1,1,Grant Holmes,Ryan Gusto,,Truist Park,26374,135,night,2026-08-04T23:15:00Z
+2026-08-04,823756,R,Final,Pittsburgh Pirates,PIT,2,Milwaukee Brewers,MIL,4,MIL,9,5,11,0,0,Logan Henderson,Jared Jones,Trevor Megill,American Family Field,30014,146,night,2026-08-04T23:40:00Z
+2026-08-04,824084,R,Final,Minnesota Twins,MIN,2,Kansas City Royals,KC,8,KC,9,7,10,2,1,Randy Dobnak,Joe Ryan,,Kauffman Stadium,20177,158,night,2026-08-04T23:40:00Z
+2026-08-04,822865,R,Final,San Francisco Giants,SF,4,Texas Rangers,TEX,5,TEX,9,6,11,0,0,Jacob Latz,Dylan Smith,,Globe Life Field,26959,175,night,2026-08-05T00:05:00Z
+2026-08-04,824645,R,Final,Los Angeles Dodgers,LAD,1,Chicago Cubs,CHC,5,CHC,9,4,9,0,0,Ryan Rolison,Tarik Skubal,,Wrigley Field,40584,152,night,2026-08-05T00:05:00Z
+2026-08-04,824161,R,Final,Toronto Blue Jays,TOR,2,Houston Astros,HOU,7,HOU,9,5,9,1,1,Hayden Wesneski,Chad Dallas,,Daikin Park,30450,146,night,2026-08-05T00:10:00Z
+2026-08-04,824321,R,Final,Tampa Bay Rays,TB,9,Colorado Rockies,COL,7,TB,11,12,11,0,0,Garrett Cleavinger,Nick Frasso,Bryan Baker,Coors Field,23071,200,night,2026-08-05T00:40:00Z
+2026-08-04,823108,R,Final,Detroit Tigers,DET,8,Seattle Mariners,SEA,0,DET,9,13,4,0,1,Troy Melton,Emerson Hancock,,T-Mobile Park,35752,148,night,2026-08-05T01:40:00Z
+2026-08-04,825054,R,Final,San Diego Padres,SD,9,Arizona Diamondbacks,AZ,4,SD,9,16,6,0,1,Randy Vásquez,Eduardo Rodriguez,,Chase Field,20839,166,night,2026-08-05T01:40:00Z
