@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at_utc": "2026-08-07T11:11:02Z",
+  "generated_at_utc": "2026-08-07T18:33:09Z",
   "total_games": 15,
   "final_games": 0,
   "total_runs": 0,
@@ -197,7 +197,7 @@
             "pct": ".491"
           },
           "is_winner": null,
-          "probable_pitcher": null
+          "probable_pitcher": "Chase Petty"
         },
         "home": {
           "id": 120,
@@ -1118,7 +1118,7 @@
             "pct": ".417"
           },
           "is_winner": null,
-          "probable_pitcher": null
+          "probable_pitcher": "JT Brubaker"
         }
       },
       "innings": [],
