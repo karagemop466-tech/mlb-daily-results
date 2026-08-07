@@ -1754,3 +1754,7 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-08-06,824664,R,Final,Toronto Blue Jays,TOR,2,Chicago Cubs,CHC,3,CHC,11,11,5,1,0,Trent Thornton,Brendon Little,,Wrigley Field,39476,201,day,2026-08-06T18:20:00Z
 2026-08-06,823105,R,Final,Detroit Tigers,DET,11,Seattle Mariners,SEA,0,DET,9,16,7,0,1,Framber Valdez,Bryce Miller,,T-Mobile Park,30323,164,day,2026-08-06T20:10:00Z
 2026-08-06,823430,R,Final,Washington Nationals,WSH,3,Philadelphia Phillies,PHI,7,PHI,9,8,16,0,0,Cristopher Sánchez,Miles Mikolas,,Citizens Bank Park,40301,162,night,2026-08-06T22:05:00Z
+2026-08-06,824729,R,Final,Chicago White Sox,CWS,11,Boston Red Sox,BOS,12,BOS,13,13,16,1,2,Brayan Bello,Erick Fedde,,Fenway Park,37082,263,night,2026-08-06T23:10:00Z
+2026-08-06,824885,R,Final,Miami Marlins,MIA,3,Atlanta Braves,ATL,11,ATL,9,8,14,3,0,Victor Mederos,Janson Junk,,Truist Park,33500,147,night,2026-08-06T23:15:00Z
+2026-08-06,824080,R,Final,Minnesota Twins,MIN,4,Kansas City Royals,KC,3,MIN,9,7,7,0,0,Kody Funderburk,Aaron Bummer,Yoendrys Gómez,Kauffman Stadium,16036,172,night,2026-08-06T23:40:00Z
+2026-08-06,825053,R,Final,San Diego Padres,SD,5,Arizona Diamondbacks,AZ,1,SD,9,12,8,0,0,Bradgley Rodriguez,Kohl Drake,,Chase Field,21884,167,night,2026-08-07T01:40:00Z
