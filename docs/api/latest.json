@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated_at_utc": "2026-08-08T10:02:19Z",
+  "generated_at_utc": "2026-08-08T17:48:30Z",
   "total_games": 15,
   "final_games": 0,
   "total_runs": 0,
@@ -15,16 +15,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-08T19:05:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Yankee Stadium",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "91",
+        "wind": "11 mph, Out To LF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -36,10 +40,10 @@
           "club": "Braves",
           "division": "National League East",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 70,
             "losses": 46,
@@ -57,10 +61,10 @@
           "club": "Yankees",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 65,
             "losses": 51,
@@ -71,7 +75,13 @@
           "probable_pitcher": "Gerrit Cole"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -90,16 +100,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-08T20:10:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "loanDepot park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -111,10 +125,10 @@
           "club": "Angels",
           "division": "American League West",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 45,
             "losses": 71,
@@ -132,10 +146,10 @@
           "club": "Marlins",
           "division": "National League East",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 58,
             "losses": 59,
@@ -146,7 +160,13 @@
           "probable_pitcher": "Sandy Alcantara"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -165,16 +185,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-08T20:10:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Fenway Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "11 mph, Out To RF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -186,10 +210,10 @@
           "club": "Athletics",
           "division": "American League West",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 45,
             "losses": 71,
@@ -207,10 +231,10 @@
           "club": "Red Sox",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 64,
             "losses": 51,
@@ -221,7 +245,13 @@
           "probable_pitcher": "Jake Bennett"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,

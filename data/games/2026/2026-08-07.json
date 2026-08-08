@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at_utc": "2026-08-08T10:02:18Z",
+  "generated_at_utc": "2026-08-08T17:48:29Z",
   "total_games": 15,
   "final_games": 15,
   "total_runs": 121,
@@ -1028,7 +1028,7 @@
       "scheduled_innings": 9,
       "innings_played": 9,
       "venue": "Rate Field",
-      "attendance": 0,
+      "attendance": 33750,
       "duration_minutes": 153,
       "weather": {
         "condition": "Partly Cloudy",

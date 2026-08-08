@@ -1765,7 +1765,7 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-08-07,823836,R,Final,Los Angeles Angels,LAA,4,Miami Marlins,MIA,3,LAA,9,6,12,0,1,Shaun Anderson,Josh Ekness,José Fermin,loanDepot park,16506,178,night,2026-08-07T23:10:00Z
 2026-08-07,824727,R,Final,Athletics,ATH,1,Boston Red Sox,BOS,13,BOS,9,2,15,2,0,Payton Tolle,Jack Perkins,Raymond Burgos,Fenway Park,37227,154,night,2026-08-07T23:10:00Z
 2026-08-07,823750,R,Final,Minnesota Twins,MIN,8,Milwaukee Brewers,MIL,6,MIN,9,13,9,1,0,Zebby Matthews,Antonio Senzatela,Yoendrys Gómez,American Family Field,42118,169,night,2026-08-07T23:40:00Z
-2026-08-07,824566,R,Final,Cleveland Guardians,CLE,8,Chicago White Sox,CWS,2,CLE,9,10,8,0,0,Parker Messick,Noah Schultz,,Rate Field,0,153,night,2026-08-07T23:40:00Z
+2026-08-07,824566,R,Final,Cleveland Guardians,CLE,8,Chicago White Sox,CWS,2,CLE,9,10,8,0,0,Parker Messick,Noah Schultz,,Rate Field,33750,153,night,2026-08-07T23:40:00Z
 2026-08-07,824081,R,Final,Chicago Cubs,CHC,6,Kansas City Royals,KC,4,CHC,9,9,7,0,1,Kevin Gausman,Daniel Lynch IV,Jacob Webb,Kauffman Stadium,26083,156,night,2026-08-08T00:10:00Z
 2026-08-07,822863,R,Final,Baltimore Orioles,BAL,1,Texas Rangers,TEX,2,TEX,9,7,3,0,0,Tyler Alexander,Shane Baz,Jacob Latz,Globe Life Field,27804,149,night,2026-08-08T00:15:00Z
 2026-08-07,823024,R,Final,Colorado Rockies,COL,2,St. Louis Cardinals,STL,3,STL,9,10,4,1,0,Kyle Leahy,Ryan Feltner,Riley O'Brien,Busch Stadium,26481,156,night,2026-08-08T00:15:00Z
