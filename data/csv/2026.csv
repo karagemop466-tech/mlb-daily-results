@@ -1803,3 +1803,13 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-08-09,823104,R,Final,Tampa Bay Rays,TB,4,Seattle Mariners,SEA,1,TB,9,14,6,2,0,Ian Seymour,Emerson Hancock,Steven Matz,T-Mobile Park,35839,165,day,2026-08-09T20:10:00Z
 2026-08-09,825050,R,Final,Los Angeles Dodgers,LAD,2,Arizona Diamondbacks,AZ,4,AZ,9,6,6,1,0,Eduardo Rodriguez,Justin Wrobleski,Kevin Ginkel,Chase Field,43775,145,day,2026-08-09T20:10:00Z
 2026-08-09,823268,R,Final,Houston Astros,HOU,2,San Diego Padres,SD,7,SD,9,2,12,0,0,Randy Vásquez,Cristian Javier,,Petco Park,40160,137,night,2026-08-10T00:20:00Z
+2026-08-10,822780,R,Final,Boston Red Sox,BOS,1,Toronto Blue Jays,TOR,2,TOR,9,6,7,1,0,Simeon Woods Richardson,Sonny Gray,Louis Varland,Rogers Centre,42511,168,night,2026-08-10T23:07:00Z
+2026-08-10,824887,R,Final,New York Mets,NYM,8,Atlanta Braves,ATL,5,NYM,9,12,9,0,0,Daniel Duarte,Bryce Elder,Kodai Senga,Truist Park,28402,185,night,2026-08-10T23:15:00Z
+2026-08-10,823675,R,Final,Baltimore Orioles,BAL,5,Minnesota Twins,MIN,9,MIN,9,7,14,1,0,Dean Kremer,Trevor Rogers,,Target Field,20155,166,night,2026-08-10T23:40:00Z
+2026-08-10,823018,R,Final,Philadelphia Phillies,PHI,6,St. Louis Cardinals,STL,5,PHI,9,8,8,0,2,Andrew Painter,Hunter Dobbins,Jonathan Bowlan,Busch Stadium,26903,185,night,2026-08-10T23:45:00Z
+2026-08-10,823998,R,Final,Texas Rangers,TEX,4,Los Angeles Angels,LAA,1,TEX,10,8,6,0,0,Peyton Gray,Luke Murphy,Jacob Latz,Angel Stadium,23880,204,night,2026-08-11T01:38:00Z
+2026-08-10,823265,R,Final,Milwaukee Brewers,MIL,2,San Diego Padres,SD,3,SD,9,6,5,0,0,Yuki Matsui,Logan Henderson,Mason Miller,Petco Park,40323,141,night,2026-08-11T01:40:00Z
+2026-08-10,824969,R,Final,Tampa Bay Rays,TB,10,Athletics,ATH,6,TB,9,12,10,1,1,Chris Roycroft,José Suarez,,Sutter Health Park,7427,174,night,2026-08-11T01:40:00Z
+2026-08-10,825048,R,Final,Colorado Rockies,COL,0,Arizona Diamondbacks,AZ,9,AZ,9,5,10,1,0,Zack Littell,Gabriel Hughes,,Chase Field,17358,161,night,2026-08-11T01:40:00Z
+2026-08-10,823189,R,Final,Houston Astros,HOU,6,San Francisco Giants,SF,3,HOU,10,8,6,0,0,Josh Hader,Jason Foley,,Oracle Park,28070,165,night,2026-08-11T01:45:00Z
+2026-08-10,823918,R,Final,Kansas City Royals,KC,5,Los Angeles Dodgers,LAD,6,LAD,9,6,10,0,0,Jack Dreyer,Alex Lange,Edwin Díaz,UNIQLO Field at Dodger Stadium,51799,157,night,2026-08-11T02:10:00Z
