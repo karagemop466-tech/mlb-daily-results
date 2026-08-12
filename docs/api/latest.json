@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at_utc": "2026-08-12T11:12:41Z",
+  "generated_at_utc": "2026-08-12T19:52:50Z",
   "total_games": 15,
   "final_games": 0,
   "total_runs": 0,
@@ -14,17 +14,21 @@
       "series_status": "Season",
       "double_header": "N",
       "game_number": 1,
-      "state": "Preview",
-      "status": "Scheduled",
+      "state": "Live",
+      "status": "In Progress",
       "is_final": false,
       "start_time_utc": "2026-08-12T17:40:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 7,
       "venue": "Target Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Sunny",
+        "temp": "86",
+        "wind": "7 mph, In From CF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -36,10 +40,10 @@
           "club": "Orioles",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 4,
+          "hits": 6,
+          "errors": 0,
+          "left_on_base": 3,
           "record": {
             "wins": 58,
             "losses": 62,
@@ -57,10 +61,10 @@
           "club": "Twins",
           "division": "American League Central",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 7,
+          "hits": 14,
+          "errors": 0,
+          "left_on_base": 8,
           "record": {
             "wins": 59,
             "losses": 62,
@@ -71,13 +75,57 @@
           "probable_pitcher": "Zebby Matthews"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": 1,
+          "home": 1
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 3,
+          "home": 4
+        },
+        {
+          "num": 4,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 2
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 7,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
         "save": null
       },
-      "home_runs": [],
+      "home_runs": [
+        {
+          "batter": "Dylan Beavers",
+          "pitcher": "Zebby Matthews",
+          "inning": 3,
+          "half": "top",
+          "rbi": 3
+        }
+      ],
       "mlb_link": "https://www.mlb.com/gameday/823672"
     },
     {
@@ -89,17 +137,21 @@
       "series_status": "Season",
       "double_header": "N",
       "game_number": 1,
-      "state": "Preview",
-      "status": "Scheduled",
+      "state": "Live",
+      "status": "In Progress",
       "is_final": false,
       "start_time_utc": "2026-08-12T18:15:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 6,
       "venue": "Busch Stadium",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Overcast",
+        "temp": "94",
+        "wind": "11 mph, Out To CF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -111,10 +163,10 @@
           "club": "Phillies",
           "division": "National League East",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 1,
+          "hits": 6,
+          "errors": 1,
+          "left_on_base": 4,
           "record": {
             "wins": 64,
             "losses": 57,
@@ -132,10 +184,10 @@
           "club": "Cardinals",
           "division": "National League Central",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 5,
+          "hits": 6,
+          "errors": 0,
+          "left_on_base": 3,
           "record": {
             "wins": 60,
             "losses": 60,
@@ -146,7 +198,38 @@
           "probable_pitcher": "Kyle Leahy"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 0,
+          "home": 1
+        },
+        {
+          "num": 3,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 4,
+          "away": 1,
+          "home": 0
+        },
+        {
+          "num": 5,
+          "away": 0,
+          "home": 4
+        },
+        {
+          "num": 6,
+          "away": 0,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -164,17 +247,21 @@
       "series_status": "Season",
       "double_header": "N",
       "game_number": 1,
-      "state": "Preview",
-      "status": "Scheduled",
+      "state": "Live",
+      "status": "Manager challenge",
       "is_final": false,
       "start_time_utc": "2026-08-12T19:05:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 3,
       "venue": "Sutter Health Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "5 mph, Calm"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -186,10 +273,10 @@
           "club": "Rays",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 3,
+          "hits": 7,
+          "errors": 0,
+          "left_on_base": 4,
           "record": {
             "wins": 73,
             "losses": 46,
@@ -207,10 +294,10 @@
           "club": "Athletics",
           "division": "American League West",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 1,
+          "errors": 1,
+          "left_on_base": 2,
           "record": {
             "wins": 47,
             "losses": 73,
@@ -221,7 +308,23 @@
           "probable_pitcher": "Jack Perkins"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 0
+        },
+        {
+          "num": 2,
+          "away": 2,
+          "home": 0
+        },
+        {
+          "num": 3,
+          "away": 1,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -239,17 +342,21 @@
       "series_status": "Season",
       "double_header": "N",
       "game_number": 1,
-      "state": "Preview",
-      "status": "Scheduled",
+      "state": "Live",
+      "status": "Player challenge",
       "is_final": false,
       "start_time_utc": "2026-08-12T19:40:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Chase Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "75",
+        "wind": "0 mph, None"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -261,10 +368,10 @@
           "club": "Rockies",
           "division": "National League West",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 47,
             "losses": 73,
@@ -282,10 +389,10 @@
           "club": "Diamondbacks",
           "division": "National League West",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 1,
+          "hits": 3,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 64,
             "losses": 57,
@@ -296,7 +403,13 @@
           "probable_pitcher": "Merrill Kelly"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": 1
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -314,17 +427,21 @@
       "series_status": "Season",
       "double_header": "N",
       "game_number": 1,
-      "state": "Preview",
-      "status": "Scheduled",
+      "state": "Live",
+      "status": "In Progress",
       "is_final": false,
       "start_time_utc": "2026-08-12T19:45:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Oracle Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Overcast",
+        "temp": "64",
+        "wind": "6 mph, Varies"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -336,10 +453,10 @@
           "club": "Astros",
           "division": "American League West",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 61,
             "losses": 60,
@@ -357,10 +474,10 @@
           "club": "Giants",
           "division": "National League West",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 50,
             "losses": 70,
@@ -368,10 +485,16 @@
             "pct": ".417"
           },
           "is_winner": null,
-          "probable_pitcher": null
+          "probable_pitcher": "Adrian Houser"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": 0,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -389,17 +512,21 @@
       "series_status": "Season",
       "double_header": "N",
       "game_number": 1,
-      "state": "Preview",
-      "status": "Scheduled",
+      "state": "Live",
+      "status": "Warmup",
       "is_final": false,
       "start_time_utc": "2026-08-12T20:10:00Z",
       "day_night": "day",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Petco Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "8 mph, L To R"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -411,10 +538,10 @@
           "club": "Brewers",
           "division": "National League Central",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 74,
             "losses": 46,
@@ -432,10 +559,10 @@
           "club": "Padres",
           "division": "National League West",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 64,
             "losses": 57,
@@ -446,7 +573,13 @@
           "probable_pitcher": "Robbie Ray"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -465,16 +598,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-12T22:40:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "loanDepot park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -486,10 +623,10 @@
           "club": "Pirates",
           "division": "National League Central",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 58,
             "losses": 63,
@@ -507,10 +644,10 @@
           "club": "Marlins",
           "division": "National League East",
           "league": "National League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 61,
             "losses": 59,
@@ -521,7 +658,13 @@
           "probable_pitcher": "Janson Junk"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -540,7 +683,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-12T22:40:00Z",
       "day_night": "night",
@@ -549,7 +692,11 @@
       "venue": "Comerica Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "9 mph, R To L"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -615,7 +762,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-12T22:45:00Z",
       "day_night": "night",
@@ -624,7 +771,11 @@
       "venue": "Nationals Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Clear",
+        "temp": "85",
+        "wind": "5 mph, L To R"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -690,16 +841,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-12T23:05:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Yankee Stadium",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Clear",
+        "temp": "85",
+        "wind": "6 mph, Out To LF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -711,10 +866,10 @@
           "club": "Mariners",
           "division": "American League West",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 56,
             "losses": 64,
@@ -732,10 +887,10 @@
           "club": "Yankees",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 67,
             "losses": 52,
@@ -746,7 +901,13 @@
           "probable_pitcher": "Will Warren"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -765,16 +926,20 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-12T23:07:00Z",
       "day_night": "night",
       "scheduled_innings": 9,
-      "innings_played": null,
+      "innings_played": 1,
       "venue": "Rogers Centre",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "71",
+        "wind": "5 mph, Out To RF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -786,10 +951,10 @@
           "club": "Red Sox",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 64,
             "losses": 55,
@@ -807,10 +972,10 @@
           "club": "Blue Jays",
           "division": "American League East",
           "league": "American League",
-          "score": null,
-          "hits": null,
-          "errors": null,
-          "left_on_base": null,
+          "score": 0,
+          "hits": 0,
+          "errors": 0,
+          "left_on_base": 0,
           "record": {
             "wins": 58,
             "losses": 63,
@@ -821,7 +986,13 @@
           "probable_pitcher": "Jos\u00e9 Soriano"
         }
       },
-      "innings": [],
+      "innings": [
+        {
+          "num": 1,
+          "away": null,
+          "home": null
+        }
+      ],
       "decisions": {
         "winner": null,
         "loser": null,
@@ -840,7 +1011,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-12T23:15:00Z",
       "day_night": "night",
@@ -849,7 +1020,11 @@
       "venue": "Truist Park",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Clear",
+        "temp": "88",
+        "wind": "7 mph, Out To LF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
@@ -915,7 +1090,7 @@
       "double_header": "N",
       "game_number": 1,
       "state": "Preview",
-      "status": "Scheduled",
+      "status": "Pre-Game",
       "is_final": false,
       "start_time_utc": "2026-08-12T23:40:00Z",
       "day_night": "night",
@@ -924,7 +1099,11 @@
       "venue": "Rate Field",
       "attendance": null,
       "duration_minutes": null,
-      "weather": {},
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "6 mph, Out To LF"
+      },
       "flags": {},
       "winner_abbr": null,
       "teams": {
