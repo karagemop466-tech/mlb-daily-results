@@ -1843,3 +1843,5 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-08-12,824562,R,Final,Cincinnati Reds,CIN,0,Chicago White Sox,CWS,5,CWS,9,2,11,0,0,Luis Castillo,Rhett Lowder,,Rate Field,24099,142,night,2026-08-12T23:40:00Z
 2026-08-12,823916,R,Final,Kansas City Royals,KC,2,Los Angeles Dodgers,LAD,4,LAD,9,6,8,0,2,Eric Lauer,Daniel Lynch IV,Landon Knack,UNIQLO Field at Dodger Stadium,47578,151,night,2026-08-13T02:10:00Z
 2026-08-12,823994,R,Final,Texas Rangers,TEX,2,Los Angeles Angels,LAA,5,LAA,9,7,8,0,0,George Klassen,Robby Ahlstrom,Ben Joyce,Angel Stadium,33733,178,night,2026-08-13T02:10:00Z
+2026-08-13,823829,R,Game Over,Pittsburgh Pirates,PIT,13,Miami Marlins,MIA,1,PIT,9,16,3,1,0,Braxton Ashcraft,Tyler Phillips,,loanDepot park,8223,147,day,2026-08-13T17:10:00Z
+2026-08-13,824238,R,Game Over,Cleveland Guardians,CLE,0,Detroit Tigers,DET,3,DET,9,4,6,1,1,Keider Montero,Parker Messick,Kenley Jansen,Comerica Park,31777,144,day,2026-08-13T17:10:00Z

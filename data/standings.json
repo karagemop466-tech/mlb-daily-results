@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at_utc": "2026-08-13T11:13:26Z",
+  "generated_at_utc": "2026-08-13T19:44:41Z",
   "divisions": [
     {
       "id": 202,
@@ -22,6 +22,20 @@
         },
         {
           "rank": "2",
+          "team": "Tigers",
+          "team_id": 116,
+          "wins": 60,
+          "losses": 61,
+          "pct": ".496",
+          "games_back": "3.0",
+          "wc_games_back": "-",
+          "streak": "W1",
+          "runs_scored": 552,
+          "runs_allowed": 462,
+          "run_differential": 90
+        },
+        {
+          "rank": "3",
           "team": "Twins",
           "team_id": 142,
           "wins": 60,
@@ -35,32 +49,18 @@
           "run_differential": -32
         },
         {
-          "rank": "3",
-          "team": "Tigers",
-          "team_id": 116,
-          "wins": 59,
-          "losses": 61,
-          "pct": ".492",
-          "games_back": "3.5",
-          "wc_games_back": "0.5",
-          "streak": "L1",
-          "runs_scored": 549,
-          "runs_allowed": 462,
-          "run_differential": 87
-        },
-        {
           "rank": "4",
           "team": "Guardians",
           "team_id": 114,
           "wins": 59,
-          "losses": 62,
-          "pct": ".488",
-          "games_back": "4.0",
-          "wc_games_back": "1.0",
-          "streak": "W1",
+          "losses": 63,
+          "pct": ".484",
+          "games_back": "4.5",
+          "wc_games_back": "1.5",
+          "streak": "L1",
           "runs_scored": 483,
-          "runs_allowed": 510,
-          "run_differential": -27
+          "runs_allowed": 513,
+          "run_differential": -30
         },
         {
           "rank": "5",
@@ -278,6 +278,20 @@
         },
         {
           "rank": "4",
+          "team": "Pirates",
+          "team_id": 134,
+          "wins": 59,
+          "losses": 64,
+          "pct": ".480",
+          "games_back": "16.0",
+          "wc_games_back": "5.5",
+          "streak": "W1",
+          "runs_scored": 617,
+          "runs_allowed": 592,
+          "run_differential": 25
+        },
+        {
+          "rank": "5",
           "team": "Reds",
           "team_id": 113,
           "wins": 57,
@@ -289,20 +303,6 @@
           "runs_scored": 487,
           "runs_allowed": 565,
           "run_differential": -78
-        },
-        {
-          "rank": "5",
-          "team": "Pirates",
-          "team_id": 134,
-          "wins": 58,
-          "losses": 64,
-          "pct": ".475",
-          "games_back": "16.5",
-          "wc_games_back": "6.0",
-          "streak": "L3",
-          "runs_scored": 604,
-          "runs_allowed": 591,
-          "run_differential": 13
         }
       ]
     },
@@ -343,14 +343,14 @@
           "team": "Marlins",
           "team_id": 146,
           "wins": 62,
-          "losses": 59,
-          "pct": ".512",
-          "games_back": "11.0",
-          "wc_games_back": "1.5",
-          "streak": "W4",
-          "runs_scored": 534,
-          "runs_allowed": 511,
-          "run_differential": 23
+          "losses": 60,
+          "pct": ".508",
+          "games_back": "11.5",
+          "wc_games_back": "2.0",
+          "streak": "L1",
+          "runs_scored": 535,
+          "runs_allowed": 524,
+          "run_differential": 11
         },
         {
           "rank": "4",
