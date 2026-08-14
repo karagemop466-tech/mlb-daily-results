@@ -1843,5 +1843,12 @@ date,game_pk,game_type,status,away_team,away_abbr,away_score,home_team,home_abbr
 2026-08-12,824562,R,Final,Cincinnati Reds,CIN,0,Chicago White Sox,CWS,5,CWS,9,2,11,0,0,Luis Castillo,Rhett Lowder,,Rate Field,24099,142,night,2026-08-12T23:40:00Z
 2026-08-12,823916,R,Final,Kansas City Royals,KC,2,Los Angeles Dodgers,LAD,4,LAD,9,6,8,0,2,Eric Lauer,Daniel Lynch IV,Landon Knack,UNIQLO Field at Dodger Stadium,47578,151,night,2026-08-13T02:10:00Z
 2026-08-12,823994,R,Final,Texas Rangers,TEX,2,Los Angeles Angels,LAA,5,LAA,9,7,8,0,0,George Klassen,Robby Ahlstrom,Ben Joyce,Angel Stadium,33733,178,night,2026-08-13T02:10:00Z
-2026-08-13,823829,R,Game Over,Pittsburgh Pirates,PIT,13,Miami Marlins,MIA,1,PIT,9,16,3,1,0,Braxton Ashcraft,Tyler Phillips,,loanDepot park,8223,147,day,2026-08-13T17:10:00Z
-2026-08-13,824238,R,Game Over,Cleveland Guardians,CLE,0,Detroit Tigers,DET,3,DET,9,4,6,1,1,Keider Montero,Parker Messick,Kenley Jansen,Comerica Park,31777,144,day,2026-08-13T17:10:00Z
+2026-08-13,823829,R,Final,Pittsburgh Pirates,PIT,13,Miami Marlins,MIA,1,PIT,9,16,3,1,0,Braxton Ashcraft,Tyler Phillips,,loanDepot park,8223,147,day,2026-08-13T17:10:00Z
+2026-08-13,824238,R,Final,Cleveland Guardians,CLE,0,Detroit Tigers,DET,3,DET,9,4,6,1,1,Keider Montero,Parker Messick,Kenley Jansen,Comerica Park,31777,144,day,2026-08-13T17:10:00Z
+2026-08-13,824561,R,Final,Cincinnati Reds,CIN,9,Chicago White Sox,CWS,8,CIN,9,8,12,0,1,Tejay Antone,Erick Fedde,Julian Garcia,Rate Field,17013,186,day,2026-08-13T17:10:00Z
+2026-08-13,823508,R,Final,Seattle Mariners,SEA,1,New York Yankees,NYY,0,SEA,9,5,4,1,0,Logan Gilbert,Max Fried,Andrés Muñoz,Yankee Stadium,41842,167,day,2026-08-13T17:35:00Z
+2026-08-13,822776,R,Final,Boston Red Sox,BOS,7,Toronto Blue Jays,TOR,0,BOS,9,10,2,0,1,Payton Tolle,Max Scherzer,,Rogers Centre,43442,145,day,2026-08-13T19:07:00Z
+2026-08-13,822696,R,Final,Chicago Cubs,CHC,0,Washington Nationals,WSH,7,WSH,9,1,10,0,0,Cade Cavalli,Kevin Gausman,,Nationals Park,21463,140,day,2026-08-13T20:05:00Z
+2026-08-13,823669,R,Final,Philadelphia Phillies,PHI,7,Minnesota Twins,MIN,1,PHI,9,12,8,0,0,Aaron Nola,Taj Bradley,,Field of Dreams,7163,172,night,2026-08-13T23:30:00Z
+2026-08-13,823995,R,Final,Texas Rangers,TEX,0,Los Angeles Angels,LAA,7,LAA,9,5,15,1,2,Walbert Ureña,Jacob deGrom,,Angel Stadium,24959,164,night,2026-08-14T02:07:00Z
+2026-08-13,823915,R,Final,Milwaukee Brewers,MIL,5,Los Angeles Dodgers,LAD,4,MIL,9,10,4,1,0,DL Hall,Edwin Díaz,Trevor Megill,UNIQLO Field at Dodger Stadium,46105,172,night,2026-08-14T02:10:00Z
